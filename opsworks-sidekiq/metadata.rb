@@ -1,4 +1,4 @@
-name        "sidekiq"
+name        "opsworks-sidekiq"
 description "Sidekiq receipes for Opsworks Ubuntu"
 maintainer  "Brainy Atom"
 version     "1.0.0"
